@@ -1,0 +1,1 @@
+{"version":3,"file":"menu-positions.js","sourceRoot":"","sources":["file:///C:/projects/material2/tmp/broccoli_type_script_compiler-input_base_path-2PVWyBBf.tmp/0/src/demo-app/components/menu/menu-positions.ts"],"names":[],"mappings":"","sourcesContent":["\r\nexport type MenuPositionX = 'before' | 'after';\r\n\r\nexport type MenuPositionY = 'above' | 'below';\r\n"]}
